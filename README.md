@@ -1,3 +1,3 @@
-# Big fan sir nichy se link copy karlo
+# Assignment_03css-pokemon
 
-assignment03noman-css-pokemon.netlify.app
+https://assignment03noman-css-pokemon.netlify.app
